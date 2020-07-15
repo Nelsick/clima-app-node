@@ -2,6 +2,6 @@
 
 Recuerden ejecutar ```npm install``` para las librerias
 
-##ejemplo: 
+## ejemplo: 
 
 ```node app -d "Santiago chile" ```
